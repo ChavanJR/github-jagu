@@ -1,2 +1,0 @@
-# github-jagu
-github learner
